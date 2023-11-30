@@ -1,0 +1,52 @@
+
+h1 {
+    text-align: center;
+    color: gray;
+    border-bottom: 7px solid rgb(2, 183, 26) !important;
+    -webkit-text-stroke: 2px rgb(2, 183, 26);
+    font-size: 28px !important;
+}
+
+h2 {
+    text-align: center;
+    color: gray;
+    -webkit-text-stroke: 2px rgb(2, 183, 26);
+    font-size: 28px !important;
+}
+
+h3 {
+    text-align: center;
+    color: gray;
+    -webkit-text-stroke: 2px rgb(2, 183, 26);
+    font-size: 28px !important;
+}
+
+.divmapa{
+    text-align: center;
+    
+}
+
+.mapa{
+    text-align: center;
+    
+}
+
+h5{
+    text-align: center;
+    -webkit-text-stroke: 2px rgb(2, 183, 26);
+    font-size: 28px !important;
+    
+    margin-left: 1000px;
+}
+
+h6{
+    text-align: center;
+    -webkit-text-stroke: 2px rgb(2, 183, 26);
+    font-size: 28px !important;
+    
+    margin-left: 1000px;
+}
+
+body{
+    background-image: url("papel-de-parede-xadrez-mod-41-papel-de-parede-para-balcao.webp");
+}
